@@ -9,6 +9,6 @@
 
 ### cd Black-Cat
 
-### chmod +x Black-Cat.py
+### chmod +x black-cat.py
 
-### python Black-Cat.py
+### python black-cat.py
